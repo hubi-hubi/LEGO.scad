@@ -1,3 +1,7 @@
+Fork to add stuff
+
+1. LED Strip holder
+
 # LEGO.scad
 
 An OpenSCAD LEGO-compatible brick generator.
